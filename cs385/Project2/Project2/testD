@@ -1,0 +1,10 @@
+convert $1.svg $1c.bmp
+cp $1c.bmp ~/public_html/cs375f20
+chmod 644 ~/public_html/cs375f20/$1c.bmp
+
+./P2D.out $1.svg
+cp $1.bmp ~/public_html/cs375f20
+chmod 644 ~/public_html/cs375f20/$1.bmp
+
+cp $1.svg ~/public_html/cs375f20/
+chmod 644 ~/public_html/cs375f20/$1.svg

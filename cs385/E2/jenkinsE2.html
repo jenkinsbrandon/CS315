@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html> 
+<svg width="300" height="300"
+  	xmlns="http://www.w3.org/2000/svg">
+
+	<title>Owl</title>
+	<desc>Stick Figure of an Owl</desc>
+
+    <rect x="0" y="0" width="305" height="305"
+    style="fill: white; stroke: white;"/>
+
+	<line x1="25" y1="240" x2="275" y2="240" style="stroke: #654321; stroke-width: 10"/>
+
+	<ellipse cx="150"  cy="150"  rx="75"  ry="100"
+		style="fill: #8b5d2e;"/>
+
+	<ellipse cx="150"  cy="0"  rx="75"  ry="100"
+		style="fill: white; "/>
+
+	<g id="jenkinsb_eyes">
+		<circle cx="120" cy="130" r="20"
+    		style="stroke-width: 2; stroke: black; fill: #f6e8c2;"/>
+
+    	<circle cx="123" cy="132" r="15"
+    		style="stroke-width: 1; stroke: black; fill: #cc7700;"/>
+
+    	<circle cx="124" cy="133" r="12"
+    		style="stroke-width: 1; stroke: black; fill: black; fill-opacity: 0.8;"/>
+
+    </g>
+
+    <g id="claws">
+		<polygon
+    		points="130 245,  123 255,  120 243,  113 250, 110 235, 105 245, 100 220"
+    		style="fill: yellow; stroke: black"/>
+    </g>
+
+    
+
+    <g id="jenkinsb_wings">
+		<polyline
+    		points="75 150, 90 160, 110 190, 130 245"
+    		style="stroke: black; stroke-width: 2; fill: none;"/>
+    </g>
+
+    <use href="#jenkinsb_eyes" transform="translate(-300 0)"/>
+<!--
+    <use href="#claws" transform="scale(-1 1) translate(-300 0)"/>
+
+    <use href="#jenkinsb_wings" transform="scale(-1 1) translate(-300 0)"/>
+-->
+
+    <polygon
+    		points="135 150, 165 150, 150 175"
+    		style="fill: orange; stroke: black"/>
+        
+</svg>

@@ -1,0 +1,63 @@
+<svg version="1.1"
+	baseProfile="full"
+	width="1000" height="1000"
+	xmlns="http://www.w3.org/2000/svg" >
+<line x1="10" y1="990" x2="110" y2="110" stroke="black" />
+<line x1="110" y1="110" x2="990" y2="10" stroke="black" />
+<circle cx="16.6667" cy="931.333" r="2" stroke="black" />
+<text x="18.6667" y="939.333" style="font-family: sans-serif; font-size: 8pt;">1</text>
+<circle cx="23.3333" cy="872.667" r="2" stroke="black" />
+<text x="25.3333" y="880.667" style="font-family: sans-serif; font-size: 8pt;">2</text>
+<circle cx="30" cy="814" r="2" stroke="black" />
+<text x="32" y="822" style="font-family: sans-serif; font-size: 8pt;">3</text>
+<circle cx="36.6667" cy="755.333" r="2" stroke="black" />
+<text x="38.6667" y="763.333" style="font-family: sans-serif; font-size: 8pt;">4</text>
+<circle cx="43.3333" cy="696.667" r="2" stroke="black" />
+<text x="45.3333" y="704.667" style="font-family: sans-serif; font-size: 8pt;">5</text>
+<circle cx="50" cy="638" r="2" stroke="black" />
+<text x="52" y="646" style="font-family: sans-serif; font-size: 8pt;">6</text>
+<circle cx="56.6667" cy="579.333" r="2" stroke="black" />
+<text x="58.6667" y="587.333" style="font-family: sans-serif; font-size: 8pt;">7</text>
+<circle cx="63.3333" cy="520.667" r="2" stroke="black" />
+<text x="65.3333" y="528.667" style="font-family: sans-serif; font-size: 8pt;">8</text>
+<circle cx="70" cy="462" r="2" stroke="black" />
+<text x="72" y="470" style="font-family: sans-serif; font-size: 8pt;">9</text>
+<circle cx="76.6667" cy="403.333" r="2" stroke="black" />
+<text x="78.6667" y="411.333" style="font-family: sans-serif; font-size: 8pt;">10</text>
+<circle cx="83.3333" cy="344.667" r="2" stroke="black" />
+<text x="85.3333" y="352.667" style="font-family: sans-serif; font-size: 8pt;">11</text>
+<circle cx="90" cy="286" r="2" stroke="black" />
+<text x="92" y="294" style="font-family: sans-serif; font-size: 8pt;">12</text>
+<circle cx="96.6667" cy="227.333" r="2" stroke="black" />
+<text x="98.6667" y="235.333" style="font-family: sans-serif; font-size: 8pt;">13</text>
+<circle cx="103.333" cy="168.667" r="2" stroke="black" />
+<text x="105.333" y="176.667" style="font-family: sans-serif; font-size: 8pt;">14</text>
+<circle cx="168.667" cy="103.333" r="2" stroke="black" />
+<text x="170.667" y="111.333" style="font-family: sans-serif; font-size: 8pt;">1</text>
+<circle cx="227.333" cy="96.6667" r="2" stroke="black" />
+<text x="229.333" y="104.667" style="font-family: sans-serif; font-size: 8pt;">2</text>
+<circle cx="286" cy="90" r="2" stroke="black" />
+<text x="288" y="98" style="font-family: sans-serif; font-size: 8pt;">3</text>
+<circle cx="344.667" cy="83.3333" r="2" stroke="black" />
+<text x="346.667" y="91.3333" style="font-family: sans-serif; font-size: 8pt;">4</text>
+<circle cx="403.333" cy="76.6667" r="2" stroke="black" />
+<text x="405.333" y="84.6667" style="font-family: sans-serif; font-size: 8pt;">5</text>
+<circle cx="462" cy="70" r="2" stroke="black" />
+<text x="464" y="78" style="font-family: sans-serif; font-size: 8pt;">6</text>
+<circle cx="520.667" cy="63.3333" r="2" stroke="black" />
+<text x="522.667" y="71.3333" style="font-family: sans-serif; font-size: 8pt;">7</text>
+<circle cx="579.333" cy="56.6667" r="2" stroke="black" />
+<text x="581.333" y="64.6667" style="font-family: sans-serif; font-size: 8pt;">8</text>
+<circle cx="638" cy="50" r="2" stroke="black" />
+<text x="640" y="58" style="font-family: sans-serif; font-size: 8pt;">9</text>
+<circle cx="696.667" cy="43.3333" r="2" stroke="black" />
+<text x="698.667" y="51.3333" style="font-family: sans-serif; font-size: 8pt;">10</text>
+<circle cx="755.333" cy="36.6667" r="2" stroke="black" />
+<text x="757.333" y="44.6667" style="font-family: sans-serif; font-size: 8pt;">11</text>
+<circle cx="814" cy="30" r="2" stroke="black" />
+<text x="816" y="38" style="font-family: sans-serif; font-size: 8pt;">12</text>
+<circle cx="872.667" cy="23.3333" r="2" stroke="black" />
+<text x="874.667" y="31.3333" style="font-family: sans-serif; font-size: 8pt;">13</text>
+<circle cx="931.333" cy="16.6667" r="2" stroke="black" />
+<text x="933.333" y="24.6667" style="font-family: sans-serif; font-size: 8pt;">14</text>
+</svg>

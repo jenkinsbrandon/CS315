@@ -1,0 +1,121 @@
+<svg version="1.1"
+	baseProfile="full"
+	width="1000" height="1000"
+	xmlns="http://www.w3.org/2000/svg" >
+<line x1="10" y1="500" x2="300" y2="900" stroke="blue"/>
+<line x1="300" y1="900" x2="600" y2="100" stroke="blue"/>
+<circle cx="29.3333" cy="526.667" r="2" stroke="red"/>
+<text x="31.3333" y="534.667" style="font-family: sans-serif; font-size: 8pt;">1</text>
+<circle cx="48.6667" cy="553.333" r="2" stroke="red"/>
+<text x="50.6667" y="561.333" style="font-family: sans-serif; font-size: 8pt;">2</text>
+<circle cx="68" cy="580" r="2" stroke="red"/>
+<text x="70" y="588" style="font-family: sans-serif; font-size: 8pt;">3</text>
+<circle cx="87.3333" cy="606.667" r="2" stroke="red"/>
+<text x="89.3333" y="614.667" style="font-family: sans-serif; font-size: 8pt;">4</text>
+<circle cx="106.667" cy="633.333" r="2" stroke="red"/>
+<text x="108.667" y="641.333" style="font-family: sans-serif; font-size: 8pt;">5</text>
+<circle cx="126" cy="660" r="2" stroke="red"/>
+<text x="128" y="668" style="font-family: sans-serif; font-size: 8pt;">6</text>
+<circle cx="145.333" cy="686.667" r="2" stroke="red"/>
+<text x="147.333" y="694.667" style="font-family: sans-serif; font-size: 8pt;">7</text>
+<circle cx="164.667" cy="713.333" r="2" stroke="red"/>
+<text x="166.667" y="721.333" style="font-family: sans-serif; font-size: 8pt;">8</text>
+<circle cx="184" cy="740" r="2" stroke="red"/>
+<text x="186" y="748" style="font-family: sans-serif; font-size: 8pt;">9</text>
+<circle cx="203.333" cy="766.667" r="2" stroke="red"/>
+<text x="205.333" y="774.667" style="font-family: sans-serif; font-size: 8pt;">10</text>
+<circle cx="222.667" cy="793.333" r="2" stroke="red"/>
+<text x="224.667" y="801.333" style="font-family: sans-serif; font-size: 8pt;">11</text>
+<circle cx="242" cy="820" r="2" stroke="red"/>
+<text x="244" y="828" style="font-family: sans-serif; font-size: 8pt;">12</text>
+<circle cx="261.333" cy="846.667" r="2" stroke="red"/>
+<text x="263.333" y="854.667" style="font-family: sans-serif; font-size: 8pt;">13</text>
+<circle cx="280.667" cy="873.333" r="2" stroke="red"/>
+<text x="282.667" y="881.333" style="font-family: sans-serif; font-size: 8pt;">14</text>
+<circle cx="300" cy="900" r="2" stroke="red"/>
+<text x="302" y="908" style="font-family: sans-serif; font-size: 8pt;">15</text>
+<circle cx="320" cy="846.667" r="2" stroke="red"/>
+<text x="322" y="854.667" style="font-family: sans-serif; font-size: 8pt;">1</text>
+<circle cx="340" cy="793.333" r="2" stroke="red"/>
+<text x="342" y="801.333" style="font-family: sans-serif; font-size: 8pt;">2</text>
+<circle cx="360" cy="740" r="2" stroke="red"/>
+<text x="362" y="748" style="font-family: sans-serif; font-size: 8pt;">3</text>
+<circle cx="380" cy="686.667" r="2" stroke="red"/>
+<text x="382" y="694.667" style="font-family: sans-serif; font-size: 8pt;">4</text>
+<circle cx="400" cy="633.333" r="2" stroke="red"/>
+<text x="402" y="641.333" style="font-family: sans-serif; font-size: 8pt;">5</text>
+<circle cx="420" cy="580" r="2" stroke="red"/>
+<text x="422" y="588" style="font-family: sans-serif; font-size: 8pt;">6</text>
+<circle cx="440" cy="526.667" r="2" stroke="red"/>
+<text x="442" y="534.667" style="font-family: sans-serif; font-size: 8pt;">7</text>
+<circle cx="460" cy="473.333" r="2" stroke="red"/>
+<text x="462" y="481.333" style="font-family: sans-serif; font-size: 8pt;">8</text>
+<circle cx="480" cy="420" r="2" stroke="red"/>
+<text x="482" y="428" style="font-family: sans-serif; font-size: 8pt;">9</text>
+<circle cx="500" cy="366.667" r="2" stroke="red"/>
+<text x="502" y="374.667" style="font-family: sans-serif; font-size: 8pt;">10</text>
+<circle cx="520" cy="313.333" r="2" stroke="red"/>
+<text x="522" y="321.333" style="font-family: sans-serif; font-size: 8pt;">11</text>
+<circle cx="540" cy="260" r="2" stroke="red"/>
+<text x="542" y="268" style="font-family: sans-serif; font-size: 8pt;">12</text>
+<circle cx="560" cy="206.667" r="2" stroke="red"/>
+<text x="562" y="214.667" style="font-family: sans-serif; font-size: 8pt;">13</text>
+<circle cx="580" cy="153.333" r="2" stroke="red"/>
+<text x="582" y="161.333" style="font-family: sans-serif; font-size: 8pt;">14</text>
+<circle cx="600" cy="100" r="2" stroke="red"/>
+<text x="602" y="108" style="font-family: sans-serif; font-size: 8pt;">15</text>
+<circle cx="68.0887" cy="569.333" r="2" stroke="blue"/>
+<circle cx="106.933" cy="601.333" r="2" stroke="blue"/>
+<circle cx="145.867" cy="622.667" r="2" stroke="blue"/>
+<circle cx="184.889" cy="633.333" r="2" stroke="blue"/>
+<circle cx="224" cy="633.333" r="2" stroke="blue"/>
+<circle cx="263.2" cy="622.667" r="2" stroke="blue"/>
+<circle cx="302.489" cy="601.333" r="2" stroke="blue"/>
+<circle cx="341.867" cy="569.334" r="2" stroke="blue"/>
+<circle cx="381.333" cy="526.667" r="2" stroke="blue"/>
+<circle cx="420.889" cy="473.333" r="2" stroke="blue"/>
+<circle cx="460.533" cy="409.333" r="2" stroke="blue"/>
+<circle cx="500.267" cy="334.667" r="2" stroke="blue"/>
+<circle cx="540.089" cy="249.334" r="2" stroke="blue"/>
+<line x1="29.3333" y1="526.667" x2="68.0887" y2="569.333" stroke="green"/>
+<line x1="68.0887" y1="569.333" x2="106.933" y2="601.333" stroke="green"/>
+<line x1="106.933" y1="601.333" x2="145.867" y2="622.667" stroke="green"/>
+<line x1="145.867" y1="622.667" x2="184.889" y2="633.333" stroke="green"/>
+<line x1="184.889" y1="633.333" x2="224" y2="633.333" stroke="green"/>
+<line x1="224" y1="633.333" x2="263.2" y2="622.667" stroke="green"/>
+<line x1="263.2" y1="622.667" x2="302.489" y2="601.333" stroke="green"/>
+<line x1="302.489" y1="601.333" x2="341.867" y2="569.334" stroke="green"/>
+<line x1="341.867" y1="569.334" x2="381.333" y2="526.667" stroke="green"/>
+<line x1="381.333" y1="526.667" x2="420.889" y2="473.333" stroke="green"/>
+<line x1="420.889" y1="473.333" x2="460.533" y2="409.333" stroke="green"/>
+<line x1="460.533" y1="409.333" x2="500.267" y2="334.667" stroke="green"/>
+<line x1="500.267" y1="334.667" x2="540.089" y2="249.334" stroke="green"/>
+<line x1="540.089" y1="249.334" x2="580" y2="153.333" stroke="green"/>
+<circle cx="48.711" cy="548" r="2" stroke="blue"/>
+<circle cx="87.5111" cy="585.333" r="2" stroke="blue"/>
+<circle cx="126.4" cy="612" r="2" stroke="blue"/>
+<circle cx="165.378" cy="628" r="2" stroke="blue"/>
+<circle cx="204.444" cy="633.333" r="2" stroke="blue"/>
+<circle cx="243.6" cy="628" r="2" stroke="blue"/>
+<circle cx="282.845" cy="612" r="2" stroke="blue"/>
+<circle cx="322.178" cy="585.333" r="2" stroke="blue"/>
+<circle cx="361.6" cy="548" r="2" stroke="blue"/>
+<circle cx="401.111" cy="500" r="2" stroke="blue"/>
+<circle cx="440.711" cy="441.333" r="2" stroke="blue"/>
+<circle cx="480.4" cy="372" r="2" stroke="blue"/>
+<circle cx="520.178" cy="292" r="2" stroke="blue"/>
+<circle cx="560.044" cy="201.334" r="2" stroke="blue"/>
+<line x1="48.711" y1="548" x2="87.5111" y2="585.333" stroke="red"/>
+<line x1="87.5111" y1="585.333" x2="126.4" y2="612" stroke="red"/>
+<line x1="126.4" y1="612" x2="165.378" y2="628" stroke="red"/>
+<line x1="165.378" y1="628" x2="204.444" y2="633.333" stroke="red"/>
+<line x1="204.444" y1="633.333" x2="243.6" y2="628" stroke="red"/>
+<line x1="243.6" y1="628" x2="282.845" y2="612" stroke="red"/>
+<line x1="282.845" y1="612" x2="322.178" y2="585.333" stroke="red"/>
+<line x1="322.178" y1="585.333" x2="361.6" y2="548" stroke="red"/>
+<line x1="361.6" y1="548" x2="401.111" y2="500" stroke="red"/>
+<line x1="401.111" y1="500" x2="440.711" y2="441.333" stroke="red"/>
+<line x1="440.711" y1="441.333" x2="480.4" y2="372" stroke="red"/>
+<line x1="480.4" y1="372" x2="520.178" y2="292" stroke="red"/>
+<line x1="520.178" y1="292" x2="560.044" y2="201.334" stroke="red"/>
+</svg>

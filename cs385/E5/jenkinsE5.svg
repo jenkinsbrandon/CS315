@@ -1,0 +1,80 @@
+<svg version="1.1"
+	baseProfile="full"
+	width="400" height="400"
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+    <symbol id="grid"  preserveAspectRatio="xMidYMid slice">
+	<path d="M 20,20 V 380 m 20,0 V 20 m 20,0 V 380 m 20,0 V 20 m 20,0
+		V 380 m 20,0 V 20 m 20,0 V 380 m 20,0 V 20 m 20,0
+		V 380 m 20,0 V 20 m 20,0 V 380 m 20,0 V 20 m 20,0
+		V 380 m 20,0 V 20 m 20,0 V 380 m 20,0 V 20 m 20,0
+		V 380 m 20,0 V 20 m 20,0 V 380"
+		fill="none" stroke="grey"/>
+	<path d="M 20,20 H 380 m 0,20 H 20 m 0,20 H 380 m 0,20 H 20 m 0,20
+		H 380 m 0,20 H 20 m 0,20 H 380 m 0,20 H 20 m 0,20
+		H 380 m 0,20 H 20 m 0,20 H 380 m 0,20 H 20 m 0,20
+		H 380 m 0,20 H 20 m 0,20 H 380 m 0,20 H 20 m 0,20
+		H 380 m 0,20 H 20 m 0,20 H 380"
+		fill="none" stroke="grey"/>
+	<line x1="20" y1="200" x2="380" y2="200" stroke="black" />
+	<line x1="200" y1="20" x2="200" y2="380" stroke="black" />
+    </symbol>
+    <symbol id="isosceles1" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Base = 100, Height = 200 -->
+	<path d="m 200,100 L 150,300 250,300 Z" />
+    </symbol>
+    <symbol id="isosceles2" style="stroke:red; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Base = 100, Height = 200 Centered -->
+	<polygon points="200,100 150,300 250,300" />
+    </symbol>
+    <symbol id="isosceles3" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Base = 100, Sides = 200 Centered -->
+    </symbol>
+    <symbol id="equitri" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 150 Centered -->
+    </symbol>
+    <symbol id="righttri" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 75, 100, 125 Centered -->
+    </symbol>
+    <symbol id="acutetri" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 100, 50, 125 Centered -->
+    </symbol>
+    <symbol id="obtusetri" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 100, 50, 125 Centered -->
+    </symbol>
+    <symbol id="hexagon" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 100 Centered -->
+    </symbol>
+    <symbol id="pentagon" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 100 Centered -->
+    </symbol>
+    <symbol id="star5" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Sides = 100 Centered -->
+    </symbol>
+    <symbol id="spiral" style="stroke:black; fill:none;" preserveAspectRatio="xMidYMid slice">
+	<!-- Width = 200 Height = 200 Centered -->
+    </symbol>
+</defs>
+<use xlink:href="#grid"/>
+<use xlink:href="#isosceles1"/>
+<use xlink:href="#isosceles2" style="stroke:red;"/>
+
+</svg>
+
+<!--
+
+Notes:
+
+Triangle center: (x1 + x2 + x3)/3, (y1+ y2 + y3)/3
+
+Would like center of isosceles2 at center of grid
+	cx = (200 + 150 + 250) / 3 = 200
+	cy = (100 + 300 + 300) / 3 = 700 / 3 = 233.3 
+
+	<polygon points="200,100 150,300 250,300" />
+
+
+
+
+-->
